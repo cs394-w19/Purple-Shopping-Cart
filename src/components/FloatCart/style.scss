@@ -116,7 +116,7 @@
       }
 
       &--mouseover {
-        background: #0c0b10;
+        background: black;
 
         .shelf-item__details {
           .title,
@@ -181,7 +181,7 @@
         }
       }
       &__price {
-        color: #eabf00;
+        color: white;
         text-align: right;
         width: 25%;
       }
